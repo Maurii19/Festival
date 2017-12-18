@@ -64,9 +64,15 @@ public class Main {
 		f1.setActuaciones(listaActuaciones);
 		f1.addActuacion("Marilyn Manson", 160);
 		
+		f1.setActuaciones(listaActuaciones);
+		f1.addActuacion("El lokillo", 65);
+		
 		f1.mostrarInfo();
-	
+		
+		
 		}
+	
+	
 	}
 
 

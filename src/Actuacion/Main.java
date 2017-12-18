@@ -11,7 +11,10 @@ import ciudad.Persona;
 public class Main {
 
 	public static void main(String[] args) {
-		
+		/**
+		 * @author Mauricio Diaz Araneda
+		 * Documentando prueba
+		 */
 		//Crear una actuacion por programacion
 		
 		Actuacion a1 = new Actuacion();

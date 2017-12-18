@@ -6,6 +6,10 @@ import ciudad.Persona;
 
 public class Main {
 
+	/**
+	 * @author Mauricio Diaz Araneda
+	 * Prueba ejemplo en casa
+	 */
 	public static void main(String[] args) throws FileNotFoundException {
 		// Scanner scan = new Scanner(System.in);
 
